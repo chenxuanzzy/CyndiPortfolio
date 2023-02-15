@@ -24,7 +24,7 @@ const App = () => {
     <div className="App">
       <Header data={resumeData.main} />
       <About data={resumeData.main} />
-      <Experience data={resumeData.resume} />
+      <Experience data={resumeData.experience} />
       <Project data={resumeData.portfolio} />
       <Contact data={resumeData.main} />
       <Footer data={resumeData.main} />

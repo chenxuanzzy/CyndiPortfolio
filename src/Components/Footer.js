@@ -17,7 +17,7 @@ const Footer = ({ data }) => {
           <ul className="social-links">{networks}</ul>
           <ul className="copyright">
             <li>
-              <p>Made by Cyndi Chao © {new Date().getFullYear()}</p>
+              <p>Made by Cindy Chao © {new Date().getFullYear()}</p>
             </li>
           </ul>
         </div>
