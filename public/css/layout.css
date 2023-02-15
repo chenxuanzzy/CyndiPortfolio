@@ -99,10 +99,10 @@ header .social li {
   padding: 0;
 }
 header .social li a {
-  color: #fff;
+  color: #f06000;
 }
 header .social li a:hover {
-  color: #11abb0;
+  color: #ffffff;
 }
 
 /* scrolldown link */
@@ -296,6 +296,14 @@ ul#nav li.current a {
 }
 #experience .main-col {
   padding-right: 10%;
+}
+.work-area {
+  /* display: flex;
+  width: 80%;
+  margin-right: 30%; */
+}
+.work-logo {
+  /* margin-left: 100px; */
 }
 
 .education,
