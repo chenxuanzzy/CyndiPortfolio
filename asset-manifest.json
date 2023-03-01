@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CyndiPortfolio/static/css/main.150f1627.css",
-    "main.js": "/CyndiPortfolio/static/js/main.e1a492c1.js",
+    "main.js": "/CyndiPortfolio/static/js/main.39d3ba83.js",
     "static/js/787.71e8c1a2.chunk.js": "/CyndiPortfolio/static/js/787.71e8c1a2.chunk.js",
     "index.html": "/CyndiPortfolio/index.html",
     "main.150f1627.css.map": "/CyndiPortfolio/static/css/main.150f1627.css.map",
-    "main.e1a492c1.js.map": "/CyndiPortfolio/static/js/main.e1a492c1.js.map",
+    "main.39d3ba83.js.map": "/CyndiPortfolio/static/js/main.39d3ba83.js.map",
     "787.71e8c1a2.chunk.js.map": "/CyndiPortfolio/static/js/787.71e8c1a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.150f1627.css",
-    "static/js/main.e1a492c1.js"
+    "static/js/main.39d3ba83.js"
   ]
 }
