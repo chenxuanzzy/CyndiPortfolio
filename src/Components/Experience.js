@@ -19,16 +19,27 @@ const Experience = ({ data }) => {
       return (
         <div className="work-area">
           <div key={work.company}>
-            <h3>{work.company}</h3>
+            <div className="work-logo">
+              <h3>{work.company}</h3>
+              <img
+                className="work-img"
+                src={work.logo}
+                alt={work.logo}
+                width={100}
+              />
+            </div>
+
             <p className="info">
               {work.title}
               <span>&bull;</span> <em className="date">{work.years}</em>
             </p>
-            <p>{work.description}</p>
+            <ul>
+              <li>{work.description[0]}</li>
+              <li>{work.description[1]}</li>
+              <li>{work.description[2]}</li>
+              <li>{work.description[3]}</li>
+            </ul>
           </div>
-          {/* <div className="work-logo">
-            <img className="" src={work.logo} alt="ASUS-LOGO" width={100} />
-          </div> */}
         </div>
       );
     });
