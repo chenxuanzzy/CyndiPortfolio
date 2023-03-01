@@ -18,7 +18,10 @@ const About = ({ data }) => {
         <div className="three columns">
           <img
             className="profile-pic"
-            src={profilepic}
+            src={
+              "https://raw.githubusercontent.com/chenxuanzzy/CyndiPortfolio/main/public/" +
+              profilepic
+            }
             alt="Cindy's Profile Pic"
           />
         </div>

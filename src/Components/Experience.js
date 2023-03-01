@@ -23,7 +23,10 @@ const Experience = ({ data }) => {
               <h3>{work.company}</h3>
               <img
                 className="work-img"
-                src={work.logo}
+                src={
+                  "https://raw.githubusercontent.com/chenxuanzzy/CyndiPortfolio/main/public/" +
+                  work.logo
+                }
                 alt={work.logo}
                 width={100}
               />

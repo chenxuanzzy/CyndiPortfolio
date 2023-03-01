@@ -13,7 +13,9 @@ const App = () => {
   const [resumeData, setResumeData] = useState({});
 
   useEffect(() => {
-    fetch("/resumeData.json")
+    fetch(
+      "https://raw.githubusercontent.com/chenxuanzzy/CyndiPortfolio/main/public/resumeData.json"
+    )
       .then((res) => res.json())
       .then((data) => {
         setResumeData(data);
