@@ -5,7 +5,7 @@
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
 
-    "bio": "Hi there! I am Cindy. I am Front-End Web Developer. (use HTML, JavaScript, CSS, etc.) It's been about 2 years, I'm working as web developer. I have developed  internal company system, about accounting, data monitoring web.",
+    "bio": "Hi there! I am Cindy. I am Front-End Web Developer. It's been about 2 years, working as web developer use HTML, JavaScript, CSS, etc. I have developed  internal company system, about accounting, data monitoring web.",
     "contactmessage": "Get in touch with me.",
     "email": "chenxsuanzzy@gmail.com",
     "phone": "+886 0983610389",
@@ -39,8 +39,7 @@
       {
         "school": "National Pingtung University of Science and Technology",
         "degree": "Management Information System",
-        "period": "2016/9 ~ 2020/6",
-        "description": ""
+        "period": "2016/9 ~ 2020/6"
       }
     ],
     "work": [
@@ -48,59 +47,58 @@
         "company": "ASUS",
         "title": "Web System Development Enginner",
         "years": "May 2022 - Present",
-        "description": "- Use markup languages like HTML to create user-friendly web pages.z+\\Maintain and improve website. \n - Collaborate with back-end developers and web designers to improve usability.",
-        "logo": "images/asuslogo.png"
+        "logo": "images/asuslogo.png",
+        "description": ["1", "2", "3"]
       },
       {
         "company": "IDEA INTERNET INFORMATION CO., LTD.",
         "title": "Front-End Enginner",
         "years": "2020/10 ~ 2022/3",
-        "description": "",
+        "description": ["4", "5", "6"],
         "logo": "images/ideal.png"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "Web Development",
+        "level": "80%"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Vue",
+        "level": "80%"
+      },
+      {
+        "name": "Scss",
+        "level": "65%"
       },
       {
         "name": "Git",
         "level": "70%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
+        "name": "ReactJS",
+        "level": "50%"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "TypeScript",
+        "level": "20%"
+      },
+      {
+        "name": "Python",
+        "level": "15%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
-      },
-      {
-        "title": "",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "NCS",
+        "image": "ncs.png",
+        "url": "https://chenxuanzzy.github.io/ncs-dashboard/#/"
       }
     ]
   }
