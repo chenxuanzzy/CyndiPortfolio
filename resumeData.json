@@ -1,0 +1,105 @@
+{
+  "main": {
+    "name": "Cindy Chao",
+    "occupation": "CEO of PAPA",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+
+    "bio": "Hi there! I am Cindy. I am Front-End Web Developer. It's been about 2 years, working as web developer use HTML, JavaScript, CSS, etc. I have developed  internal company system, about accounting, data monitoring web.",
+    "contactmessage": "Get in touch with me.",
+    "email": "chenxsuanzzy@gmail.com",
+    "phone": "+886 0983610389",
+    "address": {
+      "country": "Taiwan",
+      "city": "Taipei"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/chenxuanzzy",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/cindy-chao-10a206241/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "blog",
+        "url": "https://medium.com/@cyndi_caho",
+        "className": "fa fa-bold"
+      }
+    ]
+  },
+  "experience": {
+    "skillmessage": "My Programming Language",
+    "education": [
+      {
+        "school": "National Pingtung University of Science and Technology",
+        "degree": "Management Information System",
+        "period": "2016/9 ~ 2020/6"
+      }
+    ],
+    "work": [
+      {
+        "company": "ASUS",
+        "title": "Web System Development Enginner",
+        "years": "May 2022 - Present",
+        "logo": "images/asuslogo.png",
+        "description": ["1", "2", "3"]
+      },
+      {
+        "company": "IDEA INTERNET INFORMATION CO., LTD.",
+        "title": "Front-End Enginner",
+        "years": "2020/10 ~ 2022/3",
+        "description": ["4", "5", "6"],
+        "logo": "images/ideal.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Web Development",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Vue",
+        "level": "80%"
+      },
+      {
+        "name": "Scss",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "50%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "20%"
+      },
+      {
+        "name": "Python",
+        "level": "15%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "NCS",
+        "image": "ncs.png",
+        "url": "https://chenxuanzzy.github.io/ncs-dashboard/#/"
+      }
+    ]
+  }
+}
