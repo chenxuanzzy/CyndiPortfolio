@@ -49,20 +49,38 @@
         "years": "May 2022 - Present",
         "logo": "images/asuslogo.png",
         "description": [
-          "• Developed a B2B custom service system using Vue, JavaScript, HTML, and CSS. This system served over 500 clients and had a 98% satisfaction rate among users.",
-          "• Built highly functional web applications that delivered increased functionality and improved user experience.",
-          "• Tested web-based product functionality to ensure high-quality code and well-documented documentation.",
-          "• Developed internal components for the project and recommended them to management.",
-          "• Implemented CI/CD for the project, improving deployment efficiency and reducing manual errors.",
-          "• Maintained software across the codebase, requiring deep knowledge of system internals. Improved progress by 80% and fixed 90% of issue problems.",
-          "• Improved web information security by 95% and collaborated with back-end engineers to enhance information security across the project."
+          "Developed a B2B custom service system using Vue, JavaScript, HTML, and CSS. This system served over 500 clients and had a 98% satisfaction rate among users.",
+          "Built highly functional web applications that delivered increased functionality and improved user experience.",
+          "Tested web-based product functionality to ensure high-quality code and well-documented documentation.",
+          "Developed internal components for the project and recommended them to management.",
+          "Implemented CI/CD for the project, improving deployment efficiency and reducing manual errors.",
+          "Maintained software across the codebase, requiring deep knowledge of system internals. Improved progress by 80% and fixed 90% of issue problems.",
+          "Improved web information security by 95% and collaborated with back-end engineers to enhance information security across the project."
         ]
       },
       {
         "company": "IDEA INTERNET INFORMATION CO., LTD.",
         "title": "Front-End Enginner",
         "years": "2020/10 ~ 2022/3",
-        "description": [""],
+        "description": [
+          "Coded using HTML, CSS and JavaScript to develop monitoring web.",
+          "Succession of old projects with Vue.",
+          "Routine capture error log use Linux language in service computer, and maintain internal web.",
+          "Collaborated Backend data with concatenation, using the suite Highchart and Graph, Data table.",
+          "Basic SQL operation."
+        ],
+        "logo": "images/ideal.png"
+      },
+      {
+        "company": "Entertainment Workshop",
+        "title": "Front-End Enginner",
+        "years": "2020/10 ~ 2022/3",
+        "description": [
+          "Web page layout and design, revise the style and recut the layout.",
+          "Change the page to RWD according to your needs, and reshape the page.",
+          "Backend website style modification, use Boostrap4 to modify the Backend to meet customer needs.",
+          "Performed user experience quality assurance testing to identify and remedy shortcomings."
+        ],
         "logo": "images/ideal.png"
       }
     ],
