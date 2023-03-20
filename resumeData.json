@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Cindy Chao",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "occupation": "",
+    "description": "I am Cindy as Front-End Developer.",
     "image": "profilepic.jpg",
 
-    "bio": "Hi there! I am Cindy. I am Front-End Web Developer. It's been about 2 years, working as web developer use HTML, JavaScript, CSS, etc. I have developed  internal company system, about accounting, data monitoring web.",
+    "bio": "Hi there! I am Cindy. I am a Front-End Developer with 2+ years of experience in HTML, CSS, JavaScript, and Vue. Currently, I am developing a B2B customer service system at ASUS and am committed to continuous learning. I collaborate closely with back-end developers to implement user-friendly interfaces and integrate with APIs to deliver a seamless experience for our customers.",
     "contactmessage": "Get in touch with me.",
     "email": "chenxsuanzzy@gmail.com",
     "phone": "+886 0983610389",
@@ -14,7 +14,7 @@
       "city": "Taipei"
     },
     "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "https://drive.google.com/file/d/1rKE9uJJ_ZC4t9zrsBNS4sezN-i3l8xDy/view?usp=share_link",
     "social": [
       {
         "name": "github",
@@ -40,6 +40,11 @@
         "school": "National Pingtung University of Science and Technology",
         "degree": "Management Information System",
         "period": "2016/9 ~ 2020/6"
+      },
+      {
+        "school": "University of Science And Technology Beijing.",
+        "degree": "Exchange student - Bussiness Management",
+        "period": "2019/2 ~ 2019/6"
       }
     ],
     "work": [
@@ -48,14 +53,40 @@
         "title": "Web System Development Enginner",
         "years": "May 2022 - Present",
         "logo": "images/asuslogo.png",
-        "description": ["1", "2", "3"]
+        "description": [
+          "Developed a B2B custom service system using Vue, JavaScript, HTML, and CSS. This system served over 500 clients and had a 98% satisfaction rate among users.",
+          "Built highly functional web applications that delivered increased functionality and improved user experience.",
+          "Tested web-based product functionality to ensure high-quality code and well-documented documentation.",
+          "Developed internal components for the project and recommended them to management.",
+          "Implemented CI/CD for the project, improving deployment efficiency and reducing manual errors.",
+          "Maintained software across the codebase, requiring deep knowledge of system internals. Improved progress by 80% and fixed 90% of issue problems.",
+          "Improved web information security by 95% and collaborated with back-end engineers to enhance information security across the project."
+        ]
       },
       {
         "company": "IDEA INTERNET INFORMATION CO., LTD.",
         "title": "Front-End Enginner",
         "years": "2020/10 ~ 2022/3",
-        "description": ["4", "5", "6"],
+        "description": [
+          "Coded using HTML, CSS and JavaScript to develop monitoring web.",
+          "Succession of old projects with Vue.",
+          "Routine capture error log use Linux language in service computer, and maintain internal web.",
+          "Collaborated Backend data with concatenation, using the suite Highchart and Graph, Data table.",
+          "Basic SQL operation."
+        ],
         "logo": "images/ideal.png"
+      },
+      {
+        "company": "Entertainment Workshop",
+        "title": "Front-End Enginner",
+        "years": "2020/10 ~ 2022/3",
+        "description": [
+          "Web page layout and design, revise the style and recut the layout.",
+          "Change the page to RWD according to your needs, and reshape the page.",
+          "Backend website style modification, use Boostrap4 to modify the Backend to meet customer needs.",
+          "Performed user experience quality assurance testing to identify and remedy shortcomings."
+        ],
+        "logo": ""
       }
     ],
     "skills": [
@@ -69,7 +100,7 @@
       },
       {
         "name": "Vue",
-        "level": "80%"
+        "level": "75%"
       },
       {
         "name": "Scss",

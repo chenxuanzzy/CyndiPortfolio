@@ -62,7 +62,7 @@ header .banner-text {
   width: 100%;
 }
 header .banner-text h1 {
-  font: 90px/1.1em "opensans-bold", sans-serif;
+  font: 70px/1.1em "opensans-bold", sans-serif;
   color: #fff;
   letter-spacing: -2px;
   margin: 0 auto 18px auto;
@@ -70,7 +70,7 @@ header .banner-text h1 {
 }
 header .banner-text h3 {
   font: 18px/1.9em "librebaskerville-regular", serif;
-  color: #a8a8a8;
+  color: #f3f3f3;
   margin: 0 auto;
   width: 70%;
   text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
@@ -151,6 +151,7 @@ header .scrolldown a:hover {
   position: fixed;
   left: 0;
   top: 0;
+  background-color: #2b2b2b;
 }
 .opaque {
   background-color: #333;
@@ -301,6 +302,11 @@ ul#nav li.current a {
   /* display: flex;
   width: 80%;
   margin-right: 30%; */
+}
+.work-description {
+  font-size: large;
+  font-weight: 500;
+  text-align: justify;
 }
 .work-logo {
   display: flex;
@@ -590,6 +596,9 @@ ul#nav li.current a {
   margin-bottom: 0px;
   text-align: left;
   font-weight: 600;
+}
+.card-li {
+  text-align: justify;
 }
 .view-btn {
   font-weight: 500;
