@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Cindy Chao",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "occupation": "",
+    "description": "I am Cindy as Front-End Developer.",
     "image": "profilepic.jpg",
 
     "bio": "Hi there! I am Cindy. I am a Front-End Developer with 2+ years of experience in HTML, CSS, JavaScript, and Vue. Currently, I am developing a B2B customer service system at ASUS and am committed to continuous learning. I collaborate closely with back-end developers to implement user-friendly interfaces and integrate with APIs to deliver a seamless experience for our customers.",
@@ -86,7 +86,7 @@
           "Backend website style modification, use Boostrap4 to modify the Backend to meet customer needs.",
           "Performed user experience quality assurance testing to identify and remedy shortcomings."
         ],
-        "logo": "images/ideal.png"
+        "logo": ""
       }
     ],
     "skills": [
@@ -100,7 +100,7 @@
       },
       {
         "name": "Vue",
-        "level": "80%"
+        "level": "75%"
       },
       {
         "name": "Scss",
