@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [CyndiPortfolio](https://chenxuanzzy.github.io/CyndiPortfolio/)
 
+![image](https://user-images.githubusercontent.com/59633053/226264053-48b0c94c-e265-4e97-acbe-df93c19789cf.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
