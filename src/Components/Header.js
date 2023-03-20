@@ -1,10 +1,8 @@
-// import { Typewriter } from "react-simple-typewriter";
+import { Typewriter } from "react-simple-typewriter";
 const Header = ({ data }) => {
   if (data) {
-    // var name = data.name;
-    // var occupation = data.occupation;
-    // var description = data.description;
-    // var city = data.address.city;
+    var name = data.name;
+    var description = data.description;
     var networks = data.social.map(function (network) {
       return (
         <li key={network.name}>
@@ -58,11 +56,23 @@ const Header = ({ data }) => {
       <div className="row banner">
         <div className="banner-text">
           <h1 className="responsive-headline">
-            {/* <Typewriter typing={0.5}>{name ? `I'm ${name}.` : null}</Typewriter> */}
+            <Typewriter
+              words={[
+                "Cindy = Positive + Lovely",
+                "Web = JavaScript(Vue || React) + Html + CSS",
+                "As well use some SQL、Python",
+                "Coding, Writing, Learning, Jogging",
+                "Love Hiking & Workout",
+              ]}
+              loop={5}
+              cursor
+              cursorStyle="_"
+              typeSpeed={70}
+              deleteSpeed={50}
+              delaySpeed={1000}
+            />
           </h1>
-          {/* <h3>
-            Based in {city}. <span>{occupation}</span>. {description}.
-          </h3> */}
+          <h3>{description}.</h3>
           <hr />
           <ul className="social">{networks}</ul>
         </div>

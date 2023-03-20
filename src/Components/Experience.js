@@ -36,11 +36,15 @@ const Experience = ({ data }) => {
               {work.title}
               <span>&bull;</span> <em className="date">{work.years}</em>
             </p>
-            <ul>
+            <ul className="work-description">
               <li>{work.description[0]}</li>
               <li>{work.description[1]}</li>
               <li>{work.description[2]}</li>
               <li>{work.description[3]}</li>
+              <li>{work.description[4]}</li>
+              <li>{work.description[5]}</li>
+              <li>{work.description[6]}</li>
+              <li>{work.description[7]}</li>
             </ul>
           </div>
         </div>
@@ -56,23 +60,8 @@ const Experience = ({ data }) => {
       );
     });
   }
-
   return (
     <section id="experience">
-      <div className="row education">
-        <div className="three columns header-col">
-          <h1>
-            <span>Education</span>
-          </h1>
-        </div>
-
-        <div className="nine columns main-col">
-          <div className="row item">
-            <div className="twelve columns">{education}</div>
-          </div>
-        </div>
-      </div>
-
       <div className="row work">
         <div className="three columns header-col">
           <h1>
@@ -95,6 +84,20 @@ const Experience = ({ data }) => {
 
           <div className="bars">
             <ul className="skills">{skills}</ul>
+          </div>
+        </div>
+      </div>
+
+      <div className="row education">
+        <div className="three columns header-col">
+          <h1>
+            <span>Education</span>
+          </h1>
+        </div>
+
+        <div className="nine columns main-col">
+          <div className="row item">
+            <div className="twelve columns">{education}</div>
           </div>
         </div>
       </div>
